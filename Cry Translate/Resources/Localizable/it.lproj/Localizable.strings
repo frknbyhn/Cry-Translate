@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "Continua";
+"Let's Start" = "Iniziamo";
+"Working Principle" = "Principio di funzionamento";
+"User Feedback" = "Feedback degli utenti";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "La funzione AI è un sistema che analizza i suoni del pianto per bambini. Questo sistema allena un modello di intelligenza artificiale che può fare previsioni per diverse categorie di necessità (fame, disagio, insonnia, ecc.) Elaborando i dati suoni di pianto raccolti. Il modello converte i dati audio in vettori di funzionalità e prevede il tipo di pianto da questi vettori.";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "Vedendo queste previsioni, gli utenti possono rispondere più rapidamente alle esigenze del bambino. Il modello viene costantemente migliorato con feedback e dati degli utenti, curando risultati più precisi.";
+"Okay" = "Va bene";
+"Paid Feature" = "Funzione a pagamento";
+"Watch ads or become a premium user to use this paid feature" = "Guarda gli annunci o diventa un utente premium per utilizzare questa funzione a pagamento";
+"Be Premium" = "Essere premium";
+"Watch Ad" = "Guarda AD";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "Questa applicazione è progettata per scopi di intrattenimento e mira a prevedere i suoni del pianto per bambini. Tuttavia, i risultati dell'applicazione non sostituiscono una diagnosi o una raccomandazione medica definita. Se il pianto del tuo bambino persiste o se ci sono problemi di salute, si prega di chiedere immediatamente l'assistenza di un medico. Durante l'utilizzo dell'applicazione, ricorda sempre che devi essere un genitore o un caregiver responsabile per la salute e la sicurezza del tuo bambino. Prima di fare affidamento sui risultati dell'applicazione, è importante cercare consulenza medica professionale e aiuto. Iniziando a utilizzare l'applicazione, riconosci di aver letto e compreso attentamente questo disclaimer.";
+"Hungry" = "Affamato";
+"Sleepy" = "Assonnato";
+"Discomfort" = "Malessere";
+"Lower Gas" = "Gas inferiore";
+"Burp" = "Rutto";
+"Start Recording" = "Inizia a registrare";
+"Decibel" = "Decibel";
+"Sound detected, keep recording" = "Suono rilevato, continua a registrare";
+"No sound, bring the microphone closer" = "Nessun suono, avvicinare il microfono";
+"Weekly Premium" = "Premium settimanale";
+"Monthly Premium" = "Premium mensile";
+"Yearly Premium" = "Premium annuale";
+"Privacy Policy" = "politica sulla riservatezza";
+"Terms of Use" = "Termini di utilizzo";
+"Restore" = "Ristabilire";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "Analisi del pianto per bambini con intelligenza artificiale avanzata";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "Aggiornamento per le intuizioni di Cry Baby Cry. Decodifica istantaneamente le grida del tuo bambino con analisi di intelligenza artificiale premium. Eleva la genitorialità con tecnologia all'avanguardia.";
+"Error" = "Errore";
+"Purchase failed, there was an error occured" = "Acquisto non riuscito, si è verificato un errore";
+"SUBSCRIBE NOW" = "ISCRIVITI ORA";
+"Dunstan Baby Language" = "Dunstan Baby Language";
+"Need Permission" = "Necessità del permesso";
+"You need to give microphone permission to use the app." = "È necessario dare il permesso al microfono per utilizzare l'app.";
+"Cancel" = "Annulla";
+"Go Settings" = "Vai impostazioni";

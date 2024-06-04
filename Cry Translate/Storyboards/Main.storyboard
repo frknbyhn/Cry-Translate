@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Main View Controller-->
+        <scene sceneID="s0d-6b-0kx">
+            <objects>
+                <viewController storyboardIdentifier="MainViewController" id="Y6W-OH-hqX" customClass="MainViewController" customModule="Cry_Translate" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="5EZ-qb-Rvc">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="appBG" translatesAutoresizingMaskIntoConstraints="NO" id="Mnb-7d-KgN">
+                                <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                            </imageView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="IpZ-KB-QhD">
+                                <rect key="frame" x="111.33333333333333" y="303.33333333333331" width="170.66666666666669" height="170.66666666666669"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="startIcon" translatesAutoresizingMaskIntoConstraints="NO" id="IQp-gW-F3P">
+                                        <rect key="frame" x="0.0" y="0.0" width="170.66666666666666" height="170.66666666666666"/>
+                                    </imageView>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="IQp-gW-F3P" firstAttribute="leading" secondItem="IpZ-KB-QhD" secondAttribute="leading" id="Q1V-G1-O2O"/>
+                                    <constraint firstAttribute="bottom" secondItem="IQp-gW-F3P" secondAttribute="bottom" id="aq0-eb-e0m"/>
+                                    <constraint firstAttribute="trailing" secondItem="IQp-gW-F3P" secondAttribute="trailing" id="nq1-ks-XVb"/>
+                                    <constraint firstItem="IQp-gW-F3P" firstAttribute="top" secondItem="IpZ-KB-QhD" secondAttribute="top" id="srW-4N-8oc"/>
+                                </constraints>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Kaydetmeye Başla" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="tgC-G5-9gI">
+                                <rect key="frame" x="40" y="243.33333333333334" width="313" height="20.000000000000028"/>
+                                <fontDescription key="fontDescription" name="Menlo-Regular" family="Menlo" pointSize="17"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="7Ba-sN-VDY" customClass="LDProgressView">
+                                <rect key="frame" x="30" y="494" width="333" height="39"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="39" id="bIS-6v-a8e"/>
+                                </constraints>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="9" translatesAutoresizingMaskIntoConstraints="NO" id="r9s-dg-v1n">
+                                <rect key="frame" x="40" y="583" width="313" height="0.0"/>
+                                <fontDescription key="fontDescription" name="Menlo-Regular" family="Menlo" pointSize="17"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="vDu-zF-Fre"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="r9s-dg-v1n" secondAttribute="trailing" constant="40" id="0eq-pZ-Wsa"/>
+                            <constraint firstItem="IpZ-KB-QhD" firstAttribute="top" secondItem="tgC-G5-9gI" secondAttribute="bottom" constant="40" id="8xF-u6-x96"/>
+                            <constraint firstItem="IpZ-KB-QhD" firstAttribute="centerX" secondItem="vDu-zF-Fre" secondAttribute="centerX" id="Bc3-61-o08"/>
+                            <constraint firstItem="IpZ-KB-QhD" firstAttribute="centerY" secondItem="vDu-zF-Fre" secondAttribute="centerY" constant="-50" id="FAZ-Mj-MjB"/>
+                            <constraint firstItem="7Ba-sN-VDY" firstAttribute="top" secondItem="IpZ-KB-QhD" secondAttribute="bottom" constant="20" id="Nqf-zb-TMA"/>
+                            <constraint firstItem="tgC-G5-9gI" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="40" id="g9A-uN-lvA"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="tgC-G5-9gI" secondAttribute="trailing" constant="40" id="jSd-Vc-lIx"/>
+                            <constraint firstItem="tgC-G5-9gI" firstAttribute="centerX" secondItem="IpZ-KB-QhD" secondAttribute="centerX" id="kos-en-CCV"/>
+                            <constraint firstItem="r9s-dg-v1n" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="40" id="l9m-xB-LXR"/>
+                            <constraint firstItem="Mnb-7d-KgN" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" id="mMb-zh-vhU"/>
+                            <constraint firstAttribute="bottom" secondItem="Mnb-7d-KgN" secondAttribute="bottom" id="nvS-JF-UcP"/>
+                            <constraint firstItem="Mnb-7d-KgN" firstAttribute="top" secondItem="5EZ-qb-Rvc" secondAttribute="top" id="tpD-Iv-MKs"/>
+                            <constraint firstAttribute="trailing" secondItem="Mnb-7d-KgN" secondAttribute="trailing" id="uaJ-0n-yYj"/>
+                            <constraint firstItem="r9s-dg-v1n" firstAttribute="top" secondItem="7Ba-sN-VDY" secondAttribute="bottom" constant="50" id="ud9-AK-7B2"/>
+                            <constraint firstItem="7Ba-sN-VDY" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="30" id="vo5-zb-Nl5"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="7Ba-sN-VDY" secondAttribute="trailing" constant="30" id="xuR-QB-2xD"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="decibelLabel" destination="r9s-dg-v1n" id="7cW-hJ-jaP"/>
+                        <outlet property="progressView" destination="7Ba-sN-VDY" id="Y4S-aG-Oez"/>
+                        <outlet property="recordImageView" destination="IQp-gW-F3P" id="gtk-Qk-dV4"/>
+                        <outlet property="recordView" destination="IpZ-KB-QhD" id="BIB-N5-tSK"/>
+                        <outlet property="startLabel" destination="tgC-G5-9gI" id="D92-h7-x4h"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="7" y="4"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="appBG" width="414" height="896"/>
+        <image name="startIcon" width="170.66667175292969" height="170.66667175292969"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Splash View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController storyboardIdentifier="SplashViewController" id="BYZ-38-t0r" customClass="SplashViewController" customModule="Cry_Translate" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="appBG" translatesAutoresizingMaskIntoConstraints="NO" id="dzJ-uN-fDp">
+                                <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="whiteAppTitle" translatesAutoresizingMaskIntoConstraints="NO" id="9VJ-M5-gXp">
+                                <rect key="frame" x="20" y="780" width="353" height="18"/>
+                            </imageView>
+                            <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="large" translatesAutoresizingMaskIntoConstraints="NO" id="R5k-2O-u1K">
+                                <rect key="frame" x="178" y="713" width="37" height="37"/>
+                                <color key="color" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </activityIndicatorView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="babyIcon" translatesAutoresizingMaskIntoConstraints="NO" id="Uir-cL-GyJ">
+                                <rect key="frame" x="96.666666666666686" y="338.66666666666669" width="200" height="200.00000000000006"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="200" id="eP0-MZ-8po"/>
+                                    <constraint firstAttribute="width" constant="200" id="koa-TN-3od"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="9VJ-M5-gXp" secondAttribute="trailing" constant="20" id="46J-Rr-uVW"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="9VJ-M5-gXp" secondAttribute="bottom" constant="20" id="5K6-YO-0dy"/>
+                            <constraint firstItem="Uir-cL-GyJ" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="5Lw-av-3XR"/>
+                            <constraint firstItem="9VJ-M5-gXp" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Ktw-Lr-POD"/>
+                            <constraint firstItem="dzJ-uN-fDp" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="VNK-WF-esJ"/>
+                            <constraint firstAttribute="trailing" secondItem="dzJ-uN-fDp" secondAttribute="trailing" id="a20-ew-OZP"/>
+                            <constraint firstItem="R5k-2O-u1K" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="bMX-dt-u3B"/>
+                            <constraint firstItem="dzJ-uN-fDp" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="ch9-B9-qL8"/>
+                            <constraint firstItem="Uir-cL-GyJ" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="kzx-Bd-PN8"/>
+                            <constraint firstItem="9VJ-M5-gXp" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="20" id="oKH-BF-aXA"/>
+                            <constraint firstItem="9VJ-M5-gXp" firstAttribute="top" secondItem="R5k-2O-u1K" secondAttribute="bottom" constant="30" id="oWw-zI-1rH"/>
+                            <constraint firstAttribute="bottom" secondItem="dzJ-uN-fDp" secondAttribute="bottom" id="rHa-9d-u2R"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="activityIndicator" destination="R5k-2O-u1K" id="swQ-xD-EyS"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="46.564885496183201" y="-2.1126760563380285"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="appBG" width="414" height="896"/>
+        <image name="babyIcon" width="33.333332061767578" height="33.333332061767578"/>
+        <image name="whiteAppTitle" width="115" height="18"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

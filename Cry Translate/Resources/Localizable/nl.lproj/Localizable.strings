@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "Doorgaan";
+"Let's Start" = "Laten we beginnen";
+"Working Principle" = "Werkend principe";
+"User Feedback" = "Gebruikersfeedback";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "De AI -functie is een systeem dat babyhuilgeluiden analyseert. Dit systeem traint een kunstmatig intelligentiemodel dat voorspellingen kan doen voor verschillende behoeftecategorieën (honger, ongemak, slapeloosheid, enz.) Door de verzamelde Cry Sounds -gegevens te verwerken. Het model converteert de geluidsgegevens in functievectoren en voorspelt het type huilen van deze vectoren.";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "Door deze voorspellingen te zien, kunnen gebruikers sneller reageren op de behoeften van de baby. Het model is constant verbeterd met feedback en gegevens van gebruikers, en neigt naar meer precieze resultaten.";
+"Okay" = "Oké";
+"Paid Feature" = "Betaalde functie";
+"Watch ads or become a premium user to use this paid feature" = "Bekijk advertenties of word een premium gebruiker om deze betaalde functie te gebruiken";
+"Be Premium" = "Premium zijn";
+"Watch Ad" = "Bekijk advertentie";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "Deze applicatie is ontworpen voor entertainmentdoeleinden en is bedoeld om babyhuilgeluiden te voorspellen. De resultaten van de toepassing vervangen echter geen duidelijke medische diagnose of aanbeveling. Als het huilen van uw baby aanhoudt of als er gezondheidsproblemen zijn, vraag dan onmiddellijk de hulp van een medische professional. Onthoud tijdens het gebruik van de applicatie altijd dat u een verantwoordelijke ouder of verzorger moet zijn voor de gezondheid en veiligheid van uw baby. Voordat u vertrouwt op de resultaten van de applicatie, is het belangrijk om professioneel medisch advies en hulp in te stellen. Door de toepassing te gebruiken, erkent u dat u deze disclaimer zorgvuldig hebt gelezen en begrepen.";
+"Hungry" = "Hongerig";
+"Sleepy" = "Slaperig";
+"Discomfort" = "Ongemak";
+"Lower Gas" = "Lager gas";
+"Burp" = "Boeren";
+"Start Recording" = "Begin met opnemen";
+"Decibel" = "Decibel";
+"Sound detected, keep recording" = "Geluid gedetecteerd, blijf opnemen";
+"No sound, bring the microphone closer" = "Geen geluid, breng de microfoon dichterbij";
+"Weekly Premium" = "Wekelijkse premie";
+"Monthly Premium" = "Maandelijkse premie";
+"Yearly Premium" = "Jaarlijkse premium";
+"Privacy Policy" = "Privacybeleid";
+"Terms of Use" = "Gebruiksvoorwaarden";
+"Restore" = "Herstellen";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "Baby Cry Analysis met geavanceerde kunstmatige intelligentie";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "Upgrade voor Ai-versterkte babyhuilinzichten. Decodeer onmiddellijk de kreten van uw baby met premium AI -analyse. Verhoog uw ouderschap met geavanceerde technologie.";
+"Error" = "Fout";
+"Purchase failed, there was an error occured" = "Aankoop mislukt, er was een fout opgetreden";
+"SUBSCRIBE NOW" = "ABONNEER NU";
+"Dunstan Baby Language" = "Dunstan babytaal";
+"Need Permission" = "Toestemming nodig";
+"You need to give microphone permission to use the app." = "U moet microfoon toestemming geven om de app te gebruiken.";
+"Cancel" = "Annuleren";
+"Go Settings" = "Ga instellingen";

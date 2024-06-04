@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "Continuar";
+"Let's Start" = "Vamos começar";
+"Working Principle" = "Princípio de trabalho";
+"User Feedback" = "Feedback do usuário";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "O recurso de IA é um sistema que analisa sons de choro de bebê. Esse sistema treina um modelo de inteligência artificial que pode fazer previsões para diferentes categorias de necessidade (fome, desconforto, insônia etc.), processando os dados de sons de CRY coletados. O modelo converte os dados de som em vetores de recursos e prevê o tipo de choro desses vetores.";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "Ao ver essas previsões, os usuários podem responder mais rapidamente às necessidades do bebê. O modelo é constantemente melhorado com o feedback e os dados do usuário, tendendo a resultados mais precisos.";
+"Okay" = "OK";
+"Paid Feature" = "Recurso pago";
+"Watch ads or become a premium user to use this paid feature" = "Assista a anúncios ou se torne um usuário premium para usar este recurso pago";
+"Be Premium" = "Ser premium";
+"Watch Ad" = "Assista AD";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "Este aplicativo foi projetado para fins de entretenimento e tem como objetivo prever sons de choro de bebê. No entanto, os resultados da aplicação não substituem um diagnóstico ou recomendação médica definitiva. Se o choro do seu bebê persistir ou se houver algum problema de saúde, procure a assistência de um profissional médico imediatamente. Ao usar o aplicativo, lembre -se sempre de que você deve ser um pai ou cuidador responsável pela saúde e segurança do seu bebê. Antes de confiar nos resultados do aplicativo, é importante procurar aconselhamento médico e ajuda profissional. Ao começar a usar o aplicativo, você reconhece que leu e entendeu cuidadosamente este aviso.";
+"Hungry" = "Com fome";
+"Sleepy" = "Com sono";
+"Discomfort" = "Desconforto";
+"Lower Gas" = "Gás inferior";
+"Burp" = "Arrotar";
+"Start Recording" = "Comece a gravar";
+"Decibel" = "Decibel";
+"Sound detected, keep recording" = "Som detectado, continue gravando";
+"No sound, bring the microphone closer" = "Sem som, aproxime o microfone";
+"Weekly Premium" = "Premium semanal";
+"Monthly Premium" = "Prêmio mensal";
+"Yearly Premium" = "Premium anual";
+"Privacy Policy" = "política de Privacidade";
+"Terms of Use" = "Termos de uso";
+"Restore" = "Restaurar";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "Análise de choro de bebê com inteligência artificial avançada";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "Atualize para obter informações de choro de bebê aprimoradas. Decode instantaneamente os gritos do seu bebê com análise de IA premium. Eleve sua paternidade com a tecnologia de ponta.";
+"Error" = "Erro";
+"Purchase failed, there was an error occured" = "Falha na compra, ocorreu um erro";
+"SUBSCRIBE NOW" = "INSCREVA-SE AGORA";
+"Dunstan Baby Language" = "Dunstan Baby Language";
+"Need Permission" = "Precisa de permissão";
+"You need to give microphone permission to use the app." = "Você precisa dar permissão ao microfone para usar o aplicativo.";
+"Cancel" = "Cancelar";
+"Go Settings" = "Vá configurações";

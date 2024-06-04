@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "Devam Et";
+"Let's Start" = "Hadi Başlayalım";
+"Working Principle" = "Çalışma Prensibi";
+"User Feedback" = "Kullanıcı Geribildirimi";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "AI özelliği, bebek ağlama seslerini analiz eden bir sistemdir. Bu sistem, toplanan ağlama sesleri verilerini işleyerek farklı ihtiyaç kategorileri (açlık, rahatsızlık, uykusuzluk vb.) için tahminler yapabilen yapay bir zeka modelini eğitir. Model, ses verilerini özellik vektörlerine dönüştürür ve bu vektörlerden ağlama türünü tahmin eder.";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "Bu tahminleri görerek, kullanıcılar bebeğin ihtiyaçlarına daha hızlı yanıt verebilir. Model, daha kesin sonuçlara yönelerek kullanıcı geri bildirimi ve verilerle sürekli olarak geliştirilir.";
+"Okay" = "Tamam";
+"Paid Feature" = "Ücretli Özellik";
+"Watch ads or become a premium user to use this paid feature" = "Bu ücretli özelliği kullanmak için reklam izleyin veya premium kullanıcı olun";
+"Be Premium" = "Premium Ol";
+"Watch Ad" = "Reklam İzle";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "Bu uygulama eğlence amacıyla tasarlanmıştır ve bebek ağlama seslerini tahmin etmeyi amaçlamaktadır. Bununla birlikte, uygulamanın sonuçları kesin bir tıbbi teşhis veya tavsiyenin yerini almaz. Bebeğinizin ağlaması devam ederse veya herhangi bir sağlık sorunu varsa, lütfen hemen bir tıp uzmanının yardımını arayın. Uygulamayı kullanırken, her zaman bebeğinizin sağlığı ve güvenliği için sorumlu bir ebeveyn veya bakıcı olmanız gerektiğini unutmayın. Uygulamanın sonuçlarına güvenmeden önce, profesyonel tıbbi tavsiye ve yardım almak önemlidir. Uygulamayı kullanmaya başlayarak, bu feragatnameyi dikkatlice okuduğunuzu ve anladığınızı kabul edersiniz.";
+"Hungry" = "Aç";
+"Sleepy" = "Uykulu";
+"Discomfort" = "Rahatsızlık";
+"Lower Gas" = "Gazı var";
+"Burp" = "Geğirme";
+"Start Recording" = "Kayda Başla";
+"Decibel" = "Desibel";
+"Sound detected, keep recording" = "Ses algılandı, kayda devam et";
+"No sound, bring the microphone closer" = "Ses yok, mikrofonu yaklaştır";
+"Weekly Premium" = "Haftalık";
+"Monthly Premium" = "Aylık";
+"Yearly Premium" = "Yıllık";
+"Privacy Policy" = "Gizlilik Politikası";
+"Terms of Use" = "Kullanım Şartları";
+"Restore" = "Geri Yükle";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "Gelişmiş yapay zeka ile bebek ağlama analizi";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "AI ile güçlendirilmiş Bebek Ağlama Analizi için premium abone ol. Premium AI analizi ile bebeğinizin ağlamalarını anında çözün. En son teknoloji ile ebeveynliğinizi yükseltin.";
+"Error" = "Hata";
+"Purchase failed, there was an error occured" = "Satın alma başarısız oldu, bir hata oluştu";
+"SUBSCRIBE NOW" = "Devam Et";
+"Dunstan Baby Language" = "Dunstan bebek dili";
+"Need Permission" = "İzin Ver";
+"You need to give microphone permission to use the app." = "Uygulamayı kullanmak için mikrofon izni vermeniz gerekir.";
+"Cancel" = "İptal Et";
+"Go Settings" = "Ayarlara git";

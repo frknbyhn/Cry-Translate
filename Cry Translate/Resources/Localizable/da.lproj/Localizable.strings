@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "Blive ved";
+"Let's Start" = "Lad os begynde";
+"Working Principle" = "Arbejdsprincip";
+"User Feedback" = "Brugerfeedback";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "AI -funktionen er et system, der analyserer baby grædende lyde. Dette system træner en kunstig intelligensmodel, der kan gøre forudsigelser for forskellige behovskategorier (sult, ubehag, søvnløshed osv.) Ved at behandle de indsamlede råblyde data. Modellen konverterer lyddataene til funktionsvektorer og forudsiger typen af ​​gråd fra disse vektorer.";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "Ved at se disse forudsigelser kan brugerne reagere hurtigere på babyens behov. Modellen forbedres konstant med brugerfeedback og data, der har tendens til mere præcise resultater.";
+"Okay" = "okay";
+"Paid Feature" = "Betalt funktion";
+"Watch ads or become a premium user to use this paid feature" = "Se annoncer eller blive en premium -bruger til at bruge denne betalte funktion";
+"Be Premium" = "Være premium";
+"Watch Ad" = "Se annonce";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "Denne applikation er designet til underholdningsformål og sigter mod at forudsige baby grædende lyde. Resultaterne af applikationen erstatter imidlertid ikke en bestemt medicinsk diagnose eller anbefaling. Hvis din baby græder vedvarer, eller hvis der er nogen sundhedsmæssige problemer, skal du straks søge hjælp fra en medicinsk professionel. Mens du bruger applikationen, skal du altid huske, at du skal være en ansvarlig forælder eller plejeperson for din baby's sundhed og sikkerhed. Inden du stoler på applikationens resultater, er det vigtigt at søge professionel medicinsk rådgivning og hjælp. Ved at begynde at bruge applikationen anerkender du, at du omhyggeligt har læst og forstået denne ansvarsfraskrivelse.";
+"Hungry" = "Sulten";
+"Sleepy" = "Søvnig";
+"Discomfort" = "Ubehag";
+"Lower Gas" = "Lavere gas";
+"Burp" = "Burp";
+"Start Recording" = "Start optagelse";
+"Decibel" = "Decibel";
+"Sound detected, keep recording" = "Lyd registreret, fortsæt med at optage";
+"No sound, bring the microphone closer" = "Ingen lyd, tag mikrofonen nærmere";
+"Weekly Premium" = "Ugentlig præmie";
+"Monthly Premium" = "Månedlig præmie";
+"Yearly Premium" = "Årlig præmie";
+"Privacy Policy" = "Fortrolighedspolitik";
+"Terms of Use" = "Brugsbetingelser";
+"Restore" = "Gendanne";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "Baby Cry Analysis med avanceret kunstig intelligens";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "Opgradering til ai-forbedret baby-græd indsigt. Dekode øjeblikkeligt din babys råb med premium AI -analyse. Løft din forældre med avanceret teknologi.";
+"Error" = "Fejl";
+"Purchase failed, there was an error occured" = "Køb mislykkedes, der opstod en fejl";
+"SUBSCRIBE NOW" = "TILMELD NU";
+"Dunstan Baby Language" = "Dunstan babysprog";
+"Need Permission" = "Har brug for tilladelse";
+"You need to give microphone permission to use the app." = "Du skal give mikrofon tilladelse til at bruge appen.";
+"Cancel" = "Afbestille";
+"Go Settings" = "Gå indstillinger";

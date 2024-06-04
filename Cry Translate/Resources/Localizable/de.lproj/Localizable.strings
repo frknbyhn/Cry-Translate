@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "Weitermachen";
+"Let's Start" = "Lasst uns beginnen";
+"Working Principle" = "Arbeitsprinzip";
+"User Feedback" = "Benutzer-Feedback";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "Die KI -Funktion ist ein System, das das Weinen von Babys analysiert. Dieses System bildet ein Modell für künstliche Intelligenz aus, das Vorhersagen für unterschiedliche Bedarfskategorien (Hunger, Beschwerden, Schlaflosigkeit usw.) durch Verarbeitung der gesammelten Cry Sounds -Daten machen kann. Das Modell wandelt die Tondaten in Feature -Vektoren um und sagt die Art des Weinens dieser Vektoren voraus.";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "Wenn Benutzer diese Vorhersagen sehen, können Benutzer schneller auf die Bedürfnisse des Babys reagieren. Das Modell wird durch Benutzerfeedback und Daten ständig verbessert und neigt zu genaueren Ergebnissen.";
+"Okay" = "Okay";
+"Paid Feature" = "Bezahlte Funktion";
+"Watch ads or become a premium user to use this paid feature" = "Sehen Sie sich Anzeigen an oder werden Sie ein Premium -Benutzer, um diese kostenpflichtige Funktion zu verwenden";
+"Be Premium" = "Premium sein";
+"Watch Ad" = "AD AD ansehen";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "Diese Anwendung ist für Unterhaltungszwecke ausgelegt und zielt darauf ab, das Weinen von Babys vorhersagen zu können. Die Ergebnisse der Anwendung ersetzen jedoch keine eindeutige medizinische Diagnose oder Empfehlung. Wenn das Weinen Ihres Babys anhält oder wenn es sich um gesundheitliche Probleme handelt, suchen Sie sofort die Unterstützung eines Arztes. Denken Sie bei der Verwendung der Anwendung immer daran, dass Sie ein verantwortungsbewusstes Elternteil oder eine Pflegekraft für die Gesundheit und Sicherheit Ihres Babys sein müssen. Bevor Sie sich auf die Ergebnisse der Anwendung verlassen, ist es wichtig, professionelle medizinische Beratung und Hilfe zu suchen. Durch die Verwendung der Anwendung erkennen Sie an, dass Sie diesen Haftungsausschluss sorgfältig gelesen und verstanden haben.";
+"Hungry" = "Hungrig";
+"Sleepy" = "Schläfrig";
+"Discomfort" = "Unbehagen";
+"Lower Gas" = "Niedrigeres Gas";
+"Burp" = "Rülpsen";
+"Start Recording" = "Starte die Aufnahme";
+"Decibel" = "Dezibel";
+"Sound detected, keep recording" = "Sound erkannt, wieder aufnehmen";
+"No sound, bring the microphone closer" = "Kein Ton, bringen Sie das Mikrofon näher";
+"Weekly Premium" = "Wöchentliche Prämie";
+"Monthly Premium" = "Monatliche Prämie";
+"Yearly Premium" = "Jährliche Prämie";
+"Privacy Policy" = "Datenschutzrichtlinie";
+"Terms of Use" = "Nutzungsbedingungen";
+"Restore" = "Wiederherstellen";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "Baby -Cry -Analyse mit fortschrittlicher künstlicher Intelligenz";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "Upgrade für AI-verstärkte Baby-Cry-Erkenntnisse. Dekodieren Sie sofort die Schreie Ihres Babys mit Premium -KI -Analyse. Erhöhen Sie Ihre Elternschaft mit modernster Technologie.";
+"Error" = "Fehler";
+"Purchase failed, there was an error occured" = "Kauf fehlgeschlagen, es wurde ein Fehler aufgetreten";
+"SUBSCRIBE NOW" = "ABONNIERE JETZT";
+"Dunstan Baby Language" = "Dunstan Baby Sprache";
+"Need Permission" = "Brauche Erlaubnis";
+"You need to give microphone permission to use the app." = "Sie müssen Mikrofonberechtigung geben, um die App zu verwenden.";
+"Cancel" = "Stornieren";
+"Go Settings" = "GO -Einstellungen";

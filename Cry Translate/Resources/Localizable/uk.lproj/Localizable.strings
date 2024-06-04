@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "Продовжувати";
+"Let's Start" = "Давайте розпочнемо";
+"Working Principle" = "Принцип роботи";
+"User Feedback" = "Відгук користувача";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "Функція AI - це система, яка аналізує звуки плачу дитини. Ця система тренує модель штучного інтелекту, яка може робити прогнози для різних категорій потреб (голод, дискомфорт, безсоння тощо), обробляючи дані зібраних звуків крику. Модель перетворює звукові дані в вектори функцій і прогнозує тип плачу з цих векторів.";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "Бачачи ці прогнози, користувачі можуть швидше реагувати на потреби дитини. Модель постійно вдосконалюється за допомогою зворотного зв’язку користувачів та даних, що прагнуть до більш точних результатів.";
+"Okay" = "Гаразд";
+"Paid Feature" = "Оплачена функція";
+"Watch ads or become a premium user to use this paid feature" = "Дивіться рекламу або стають преміальним користувачем, щоб використовувати цю платну функцію";
+"Be Premium" = "Бути премією";
+"Watch Ad" = "Дивіться рекламу";
+"Hungry" = "Голодний";
+"Sleepy" = "Сонний";
+"Discomfort" = "Дискомфорт";
+"Lower Gas" = "Нижній газ";
+"Burp" = "Зміст";
+"Start Recording" = "Почніть запис";
+"Decibel" = "Децибел";
+"Sound detected, keep recording" = "Виявлений звук, продовжуйте записувати";
+"No sound, bring the microphone closer" = "Немає звуку, підніміть мікрофон ближче";
+"Weekly Premium" = "Щотижнева премія";
+"Monthly Premium" = "Щомісячна премія";
+"Yearly Premium" = "Щорічна премія";
+"Privacy Policy" = "Політика конфіденційності";
+"Terms of Use" = "Умови використання";
+"Restore" = "Відновлення";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "Аналіз дитячого крику з передовим штучним інтелектом";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "Оновіть для AI-посиленого дитячого крику. Миттєво розшифровувати крики дитини за допомогою преміального аналізу AI. Підніміть батьківство передовою технологією.";
+"Error" = "Помилка";
+"Purchase failed, there was an error occured" = "Не вдалося покупку, сталася помилка";
+"SUBSCRIBE NOW" = "ПІДПИШІТЬСЯ ЗАРАЗ";
+"Dunstan Baby Language" = "Данстанська дитяча мова";
+"Need Permission" = "Потребує дозволу";
+"You need to give microphone permission to use the app." = "Потрібно надати мікрофона дозвіл на використання програми.";
+"Cancel" = "Скасувати";
+"Go Settings" = "Ідіть налаштування";

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21679"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="SF-Pro.ttf">
+            <string>SFPro-Bold</string>
+            <string>SFPro-Regular</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--Intro View Controller-->
+        <scene sceneID="s0d-6b-0kx">
+            <objects>
+                <viewController storyboardIdentifier="IntroViewController" id="Y6W-OH-hqX" customClass="IntroViewController" customModule="Cry_Translate" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="5EZ-qb-Rvc">
+                        <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="72H-vC-hxE">
+                                <rect key="frame" x="0.0" y="59" width="393" height="540.66666666666663"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Animate your photos" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Vd8-p8-Ds8">
+                                <rect key="frame" x="20" y="599.66666666666663" width="353" height="27.666666666666629"/>
+                                <fontDescription key="fontDescription" name="SFPro-Bold" family="SF Pro" pointSize="23"/>
+                                <color key="textColor" name="firstColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="You can create amazing gifs by selecting your photos from the gallery" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vSM-AX-PDw">
+                                <rect key="frame" x="40" y="647.33333333333337" width="313" height="71.666666666666629"/>
+                                <fontDescription key="fontDescription" name="SFPro-Regular" family="SF Pro" pointSize="20"/>
+                                <color key="textColor" name="secondColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hF7-lU-mXf">
+                                <rect key="frame" x="20" y="739" width="353" height="59"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="59" id="hXh-ee-Gcb"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="SFPro-Bold" family="SF Pro" pointSize="21"/>
+                                <state key="normal" title="CONTINUE" backgroundImage="buttonBG">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <action selector="continueButtonClicked:" destination="Y6W-OH-hqX" eventType="touchUpInside" id="A9r-wQ-vGD"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="vDu-zF-Fre"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="vSM-AX-PDw" firstAttribute="top" secondItem="Vd8-p8-Ds8" secondAttribute="bottom" constant="20" id="4TV-gg-4Rn"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="Vd8-p8-Ds8" secondAttribute="trailing" constant="20" id="4z8-5e-ZXa"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="72H-vC-hxE" secondAttribute="trailing" id="5Xu-Aq-vSK"/>
+                            <constraint firstAttribute="trailing" secondItem="hF7-lU-mXf" secondAttribute="trailing" constant="20" id="6dl-LI-LXS"/>
+                            <constraint firstItem="Vd8-p8-Ds8" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="20" id="7hD-Eq-0O0"/>
+                            <constraint firstItem="vSM-AX-PDw" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" constant="40" id="Mr0-tN-xL7"/>
+                            <constraint firstItem="Vd8-p8-Ds8" firstAttribute="top" secondItem="72H-vC-hxE" secondAttribute="bottom" id="Pac-le-2uu"/>
+                            <constraint firstItem="hF7-lU-mXf" firstAttribute="top" secondItem="vSM-AX-PDw" secondAttribute="bottom" constant="20" id="VnE-Rh-5zx"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="bottom" secondItem="hF7-lU-mXf" secondAttribute="bottom" constant="20" id="nV6-dV-HLy"/>
+                            <constraint firstItem="hF7-lU-mXf" firstAttribute="leading" secondItem="5EZ-qb-Rvc" secondAttribute="leading" constant="20" id="pkt-Bo-17u"/>
+                            <constraint firstItem="72H-vC-hxE" firstAttribute="top" secondItem="vDu-zF-Fre" secondAttribute="top" id="qfa-hc-DRF"/>
+                            <constraint firstItem="vDu-zF-Fre" firstAttribute="trailing" secondItem="vSM-AX-PDw" secondAttribute="trailing" constant="40" id="snz-O9-LaL"/>
+                            <constraint firstItem="72H-vC-hxE" firstAttribute="leading" secondItem="vDu-zF-Fre" secondAttribute="leading" id="uwU-xZ-e2b"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="contentLabel" destination="vSM-AX-PDw" id="SxV-hI-rvb"/>
+                        <outlet property="continueButton" destination="hF7-lU-mXf" id="86f-TE-7S7"/>
+                        <outlet property="mainLabel" destination="Vd8-p8-Ds8" id="rq1-ln-oDl"/>
+                        <outlet property="videoView" destination="72H-vC-hxE" id="wjd-nW-44g"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Ief-a0-LHa" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="84.732824427480907" y="-2.1126760563380285"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="buttonBG" width="414" height="60"/>
+        <namedColor name="firstColor">
+            <color red="0.86699998378753662" green="0.36899998784065247" blue="0.53700000047683716" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="secondColor">
+            <color red="0.96899998188018799" green="0.73299998044967651" blue="0.59200000762939453" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+    </resources>
+</document>

@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "Folytatni";
+"Let's Start" = "Kezdjük";
+"Working Principle" = "Működési elv";
+"User Feedback" = "Felhasználói visszajelzés";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "Az AI szolgáltatás egy olyan rendszer, amely elemzi a baba síró hangjait. Ez a rendszer egy olyan mesterséges intelligencia modellt képez, amely előrejelzéseket készíthet a különböző szükségletkategóriákra (éhség, kellemetlenség, álmatlanság stb.) Az összegyűjtött sír hangok adatainak feldolgozása révén. A modell konvertálja a hang adatait szolgáltatásvektorokká, és megjósolja ezeknek a vektoroknak a sírása típusát.";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "Ha látja ezeket az előrejelzéseket, a felhasználók gyorsabban reagálhatnak a csecsemő igényeire. A modellt folyamatosan javítják a felhasználói visszajelzésekkel és adatokkal, a pontosabb eredmények felé.";
+"Okay" = "oké";
+"Paid Feature" = "Fizetett funkció";
+"Watch ads or become a premium user to use this paid feature" = "Nézze meg a hirdetéseket, vagy váljon prémium felhasználóvá a fizetett funkció használatához";
+"Be Premium" = "Légy prémium";
+"Watch Ad" = "Néző hirdetés";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "Ezt az alkalmazást szórakoztató célokra tervezték, és célja a baba síró hangjainak előrejelzése. Az alkalmazás eredményei azonban nem helyettesítik a határozott orvosi diagnózist vagy ajánlást. Ha a csecsemő sírása továbbra is fennáll, vagy ha vannak egészségügyi problémák, kérjük, kérjük, azonnal kérjen egy orvosi szakembert. Az alkalmazás használatakor mindig ne feledje, hogy felelős szülőnek vagy gondozónak kell lennie a csecsemő egészségének és biztonságáért. Mielőtt az alkalmazás eredményeire támaszkodna, fontos, hogy szakmai orvosi tanácsokat és segítséget kérjen. Az alkalmazás használatának megkezdésével tudomásul veszi, hogy gondosan elolvasta és megértette ezt a nyilatkozatot.";
+"Hungry" = "Éhes";
+"Sleepy" = "Álmos";
+"Discomfort" = "Kényelmetlenség";
+"Lower Gas" = "Alsó gáz";
+"Burp" = "Böfög";
+"Start Recording" = "Felvétel megkezdése";
+"Decibel" = "Decibel";
+"Sound detected, keep recording" = "Hang észlelve, folyamatosan rögzítse";
+"No sound, bring the microphone closer" = "Nincs hang, hozza közelebb a mikrofont";
+"Weekly Premium" = "Heti prémium";
+"Monthly Premium" = "Havi prémium";
+"Yearly Premium" = "Éves prémium";
+"Privacy Policy" = "Adatvédelmi irányelvek";
+"Terms of Use" = "Használati feltételek";
+"Restore" = "visszaállítás";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "Baby Cry elemzés fejlett mesterséges intelligenciával";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "Frissítse az AI-vel továbbfejlesztett baba sírási betekintést. Azonnal dekódolja a baba sírásait prémium AI elemzéssel. Nevelje meg szülőjét a legmodernebb technológiával.";
+"Error" = "Hiba";
+"Purchase failed, there was an error occured" = "A vásárlás sikertelen, hiba történt";
+"SUBSCRIBE NOW" = "IRATKOZZ FEL MOST";
+"Dunstan Baby Language" = "Dunstan baba nyelv";
+"Need Permission" = "Engedélyre van szüksége";
+"You need to give microphone permission to use the app." = "Mikrofon engedélyt kell adnia az alkalmazás használatához.";
+"Cancel" = "Megszünteti";
+"Go Settings" = "Go beállítások";

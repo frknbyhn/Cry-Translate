@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "يكمل";
+"Let's Start" = "لنبدأ";
+"Working Principle" = "مبدأ العمل";
+"User Feedback" = "تعليقات المستخدمين";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "ميزة الذكاء الاصطناعى هي نظام يحلل أصوات البكاء. يدرب هذا النظام نموذج الذكاء الاصطناعي الذي يمكن أن يجعل تنبؤات لفئات الاحتياجات المختلفة (الجوع ، الانزعاج ، الأرق ، إلخ) من خلال معالجة بيانات أصوات البصر التي تم جمعها. يحول النموذج بيانات الصوت إلى متجهات الميزة ويتوقع نوع البكاء من هذه المتجهات.";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "من خلال رؤية هذه التنبؤات ، يمكن للمستخدمين الاستجابة بسرعة أكبر لاحتياجات الطفل. يتم تحسين النموذج باستمرار مع ملاحظات المستخدم والبيانات ، ويميل نحو نتائج أكثر دقة.";
+"Okay" = "تمام";
+"Paid Feature" = "الميزة المدفوعة";
+"Watch ads or become a premium user to use this paid feature" = "شاهد الإعلانات أو تصبح مستخدمًا متميزًا لاستخدام هذه الميزة المدفوعة";
+"Be Premium" = "كن قسط";
+"Watch Ad" = "مشاهدة الإعلان";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "تم تصميم هذا التطبيق لأغراض الترفيه ويهدف إلى التنبؤ بأصوات البكاء للأطفال. ومع ذلك ، فإن نتائج التطبيق لا تحل محل تشخيص أو توصية طبية محددة. إذا استمرت بكاء طفلك أو إذا كانت هناك أي مشاكل صحية ، فيرجى طلب المساعدة من أخصائي طبي على الفور. أثناء استخدام التطبيق ، تذكر دائمًا أنه يجب أن تكون أحد الوالدين أو مقدم الرعاية المسؤول عن صحة وسلامة طفلك. قبل الاعتماد على نتائج التطبيق ، من المهم طلب المشورة الطبية المهنية والمساعدة. من خلال البدء في استخدام التطبيق ، فإنك تقر بأنك قد قرأت بعناية وفهم هذا إخلاء المسئولية.";
+"Hungry" = "جوعان";
+"Sleepy" = "نعسان";
+"Discomfort" = "عدم ارتياح";
+"Lower Gas" = "انخفاض الغاز";
+"Burp" = "تجشؤ";
+"Start Recording" = "ابدأ التسجيل";
+"Decibel" = "ديسيبل";
+"Sound detected, keep recording" = "تم اكتشاف الصوت ، واصل التسجيل";
+"No sound, bring the microphone closer" = "لا صوت ، وجعل الميكروفون أقرب";
+"Weekly Premium" = "قسط أسبوعي";
+"Monthly Premium" = "القسط الشهري";
+"Yearly Premium" = "قسط سنوي";
+"Privacy Policy" = "سياسة الخصوصية";
+"Terms of Use" = "شروط الاستخدام";
+"Restore" = "يعيد";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "تحليل صرخة الطفل مع الذكاء الاصطناعي المتقدم";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "ترقية لرؤى صرخة الطفل المحسنة AI. فك تشفير صرخات طفلك على الفور من خلال تحليل الذكاء الاصطناعي المتميز. ارفع الأبوة والأمومة بتكنولوجيا متطورة.";
+"Error" = "خطأ";
+"Purchase failed, there was an error occured" = "فشل الشراء ، حدث خطأ";
+"SUBSCRIBE NOW" = "إشترك الآن";
+"Dunstan Baby Language" = "دنستان لغة الطفل";
+"Need Permission" = "بحاجة إلى إذن";
+"You need to give microphone permission to use the app." = "تحتاج إلى إعطاء إذن الميكروفون لاستخدام التطبيق.";
+"Cancel" = "يلغي";
+"Go Settings" = "GO إعدادات";

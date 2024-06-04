@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "続く";
+"Let's Start" = "はじめましょう";
+"Working Principle" = "作業原則";
+"User Feedback" = "ユーザーフィードバック";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "AI機能は、赤ちゃんの泣き声を分析するシステムです。このシステムは、収集された泣き声データを処理することにより、さまざまなニーズカテゴリ（空腹、不快感、不眠症など）を予測できる人工知能モデルを訓練します。このモデルは、サウンドデータをフィーチャベクトルに変換し、これらのベクトルから泣くタイプを予測します。";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "これらの予測を見ることで、ユーザーは赤ちゃんのニーズにより迅速に対応できます。モデルは、ユーザーのフィードバックとデータにより常に改善され、より正確な結果に向かう傾向があります。";
+"Okay" = "わかった";
+"Paid Feature" = "有料機能";
+"Watch ads or become a premium user to use this paid feature" = "広告を見るか、プレミアムユーザーになってこの有料機能を使用する";
+"Be Premium" = "プレミアムになります";
+"Watch Ad" = "広告を見る";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "このアプリケーションは、エンターテインメントの目的で設計されており、赤ちゃんの泣き声を予測することを目指しています。ただし、アプリケーションの結果は、明確な医療診断や推奨事項に代わるものではありません。赤ちゃんが泣いている場合、または健康上の問題がある場合は、すぐに医療専門家の支援を求めてください。アプリケーションを使用している間、赤ちゃんの健康と安全の責任ある親または介護者でなければならないことを常に覚えておいてください。アプリケーションの結果に頼る前に、専門的な医学的アドバイスと助けを求めることが重要です。アプリケーションを使用し始めることで、この免責事項を注意深く読んで理解したことを認めます。";
+"Hungry" = "お腹がすいた";
+"Sleepy" = "眠い";
+"Discomfort" = "不快感";
+"Lower Gas" = "低ガス";
+"Burp" = "げっぷ";
+"Start Recording" = "録音を開始";
+"Decibel" = "デシベル";
+"Sound detected, keep recording" = "サウンドが検出され、記録を続けます";
+"No sound, bring the microphone closer" = "音はありません、マイクを近づけます";
+"Weekly Premium" = "毎週のプレミアム";
+"Monthly Premium" = "毎月のプレミアム";
+"Yearly Premium" = "年間プレミアム";
+"Privacy Policy" = "プライバシーポリシー";
+"Terms of Use" = "利用規約";
+"Restore" = "復元する";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "高度な人工知能による赤ちゃんの叫び分析";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "Ai-Enhanced Baby Cry Insightsのアップグレード。プレミアムAI分析で赤ちゃんの叫びを即座にデコードします。最先端のテクノロジーで子育てを高めます。";
+"Error" = "エラー";
+"Purchase failed, there was an error occured" = "購入に失敗し、エラーが発生しました";
+"SUBSCRIBE NOW" = "今すぐ購読してください";
+"Dunstan Baby Language" = "ダンスタンの赤ちゃんの言語";
+"Need Permission" = "許可が必要です";
+"You need to give microphone permission to use the app." = "アプリを使用するには、マイクの許可を与える必要があります。";
+"Cancel" = "キャンセル";
+"Go Settings" = "設定に行きます";

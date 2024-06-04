@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "Tiếp tục";
+"Let's Start" = "Hãy bắt đầu";
+"Working Principle" = "Nguyên tắc làm việc";
+"User Feedback" = "Phản hồi của người dùng";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "Tính năng AI là một hệ thống phân tích âm thanh khóc của em bé. Hệ thống này đào tạo một mô hình trí tuệ nhân tạo có thể đưa ra dự đoán cho các loại nhu cầu khác nhau (đói, khó chịu, mất ngủ, v.v.) bằng cách xử lý dữ liệu âm thanh Cry thu thập được. Mô hình chuyển đổi dữ liệu âm thanh thành các vectơ tính năng và dự đoán loại khóc từ các vectơ này.";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "Bằng cách nhìn thấy những dự đoán này, người dùng có thể đáp ứng nhanh hơn nhu cầu của em bé. Mô hình liên tục được cải thiện với phản hồi và dữ liệu của người dùng, có xu hướng theo kết quả chính xác hơn.";
+"Okay" = "Đồng ý";
+"Paid Feature" = "Tính năng trả phí";
+"Watch ads or become a premium user to use this paid feature" = "Xem quảng cáo hoặc trở thành người dùng cao cấp để sử dụng tính năng trả phí này";
+"Be Premium" = "Là cao cấp";
+"Watch Ad" = "Xem quảng cáo";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "Ứng dụng này được thiết kế cho mục đích giải trí và nhằm dự đoán âm thanh khóc của em bé. Tuy nhiên, kết quả của ứng dụng không thay thế cho chẩn đoán y tế hoặc khuyến nghị xác định. Nếu bé khóc của em bé vẫn tồn tại hoặc nếu có bất kỳ vấn đề sức khỏe nào, vui lòng tìm kiếm sự hỗ trợ của một chuyên gia y tế ngay lập tức. Trong khi sử dụng ứng dụng, hãy luôn nhớ rằng bạn phải là cha mẹ hoặc người chăm sóc có trách nhiệm vì sức khỏe và sự an toàn của em bé. Trước khi dựa vào kết quả của ứng dụng, điều quan trọng là tìm kiếm lời khuyên và giúp đỡ y tế chuyên nghiệp. Bằng cách bắt đầu sử dụng ứng dụng, bạn thừa nhận rằng bạn đã đọc kỹ và hiểu từ chối trách nhiệm này.";
+"Hungry" = "Đói bụng";
+"Sleepy" = "Buồn ngủ";
+"Discomfort" = "Khó chịu";
+"Lower Gas" = "Khí thấp hơn";
+"Burp" = "Burp";
+"Start Recording" = "Bắt đầu ghi âm";
+"Decibel" = "Decibel";
+"Sound detected, keep recording" = "Âm thanh được phát hiện, tiếp tục ghi âm";
+"No sound, bring the microphone closer" = "Không có âm thanh, hãy đưa micrô gần hơn";
+"Weekly Premium" = "Phí bảo hiểm hàng tuần";
+"Monthly Premium" = "Bảo hiểm hàng tháng";
+"Yearly Premium" = "Phí bảo hiểm hàng năm";
+"Privacy Policy" = "Chính sách bảo mật";
+"Terms of Use" = "Điều khoản sử dụng";
+"Restore" = "Khôi phục";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "Phân tích em bé Cry với trí tuệ nhân tạo tiên tiến";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "Nâng cấp cho những hiểu biết của em bé được tăng cường AI-AI. Giải mã ngay lập tức tiếng khóc của em bé với phân tích AI cao cấp. Nâng cao việc nuôi dạy con cái của bạn với công nghệ tiên tiến.";
+"Error" = "Lỗi";
+"Purchase failed, there was an error occured" = "Mua không thành công, đã xảy ra lỗi";
+"SUBSCRIBE NOW" = "THEO DÕI NGAY";
+"Dunstan Baby Language" = "Ngôn ngữ em bé Dunstan";
+"Need Permission" = "Cần sự cho phép";
+"You need to give microphone permission to use the app." = "Bạn cần cho phép micrô để sử dụng ứng dụng.";
+"Cancel" = "Hủy bỏ";
+"Go Settings" = "Cài đặt đi";

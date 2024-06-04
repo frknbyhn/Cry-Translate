@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "Продолжать";
+"Let's Start" = "Давайте начнем";
+"Working Principle" = "Принцип работы";
+"User Feedback" = "Отзывы пользователя";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "Функция искусственного интеллекта - это система, которая анализирует звуки плачущего ребенка. Эта система обучает модель искусственного интеллекта, которая может делать прогнозы для различных категорий потребностей (голод, дискомфорт, бессонница и т. Д.), Обработка данных собранных звуков крика. Модель преобразует звуковые данные в векторы функций и предсказывает тип крика от этих векторов.";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "Видя эти прогнозы, пользователи могут быстрее реагировать на потребности ребенка. Модель постоянно улучшается с обратной связью с пользователями и данными, стремясь к более точным результатам.";
+"Okay" = "Хорошо";
+"Paid Feature" = "Оплачиваемая функция";
+"Watch ads or become a premium user to use this paid feature" = "Смотреть рекламу или стать премиальным пользователем для использования этой платной функции";
+"Be Premium" = "Быть премиум";
+"Watch Ad" = "Смотреть рекламу";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "Это приложение предназначено для развлекательных целей и направлено на предсказание звуков плача ребенка. Однако результаты приложения не заменяют определенную медицинскую диагностику или рекомендацию. Если у вашего ребенка плач настойчиво или есть какие -либо проблемы со здоровьем, пожалуйста, немедленно обратитесь за помощью к медицинскому работнику. Используя приложение, всегда помните, что вы должны быть ответственным родителем или опекуном для здоровья и безопасности вашего ребенка. Прежде чем полагаться на результаты заявления, важно обратиться за профессиональной медицинской консультацией и помощи. Начав использовать приложение, вы признаете, что внимательно прочитали и поняли этот отказ от ответственности.";
+"Hungry" = "Голодный";
+"Sleepy" = "Сонный";
+"Discomfort" = "Дискомфорт";
+"Lower Gas" = "Нижний газ";
+"Burp" = "Отрыжка";
+"Start Recording" = "Начать запись";
+"Decibel" = "Децибел";
+"Sound detected, keep recording" = "Звук обнаружен, продолжайте записывать";
+"No sound, bring the microphone closer" = "Нет звука, приведите микрофон ближе";
+"Weekly Premium" = "Еженедельная премия";
+"Monthly Premium" = "Ежемесячная премия";
+"Yearly Premium" = "Ежегодная премия";
+"Privacy Policy" = "политика конфиденциальности";
+"Terms of Use" = "Условия эксплуатации";
+"Restore" = "Восстановить";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "Анализ детского крика с расширенным искусственным интеллектом";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "Обновление для A-Acced Hable Baby Cry Insights. Мгновенно декодируйте крики вашего ребенка с помощью анализа ИИ премиум -класса. Повысите свое воспитание с помощью передовых технологий.";
+"Error" = "Ошибка";
+"Purchase failed, there was an error occured" = "Покупка не удалась, произошла ошибка";
+"SUBSCRIBE NOW" = "ПОДПИШИСЬ СЕЙЧАС";
+"Dunstan Baby Language" = "Данстанский детский язык";
+"Need Permission" = "Нужно разрешение";
+"You need to give microphone permission to use the app." = "Вы должны дать разрешение микрофона для использования приложения.";
+"Cancel" = "Отмена";
+"Go Settings" = "Настройки";

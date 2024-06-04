@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "ดำเนินการต่อ";
+"Let's Start" = "เริ่มกันเลย";
+"Working Principle" = "หลักการทำงาน";
+"User Feedback" = "ความคิดเห็นของผู้ใช้";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "คุณสมบัติ AI เป็นระบบที่วิเคราะห์เสียงร้องไห้ทารก ระบบนี้ฝึกอบรมแบบจำลองปัญญาประดิษฐ์ที่สามารถคาดการณ์ได้สำหรับหมวดหมู่ความต้องการที่แตกต่างกัน (ความหิว, ไม่สบาย, นอนไม่หลับ, ฯลฯ ) โดยการประมวลผลข้อมูลเสียงร้องที่รวบรวมได้ โมเดลแปลงข้อมูลเสียงเป็นเวกเตอร์คุณสมบัติและทำนายประเภทของการร้องไห้จากเวกเตอร์เหล่านี้";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "ด้วยการเห็นการคาดการณ์เหล่านี้ผู้ใช้สามารถตอบสนองต่อความต้องการของทารกได้เร็วขึ้น โมเดลได้รับการปรับปรุงอย่างต่อเนื่องด้วยความคิดเห็นของผู้ใช้และข้อมูลที่มีแนวโน้มที่จะผลลัพธ์ที่แม่นยำยิ่งขึ้น";
+"Okay" = "ตกลง";
+"Paid Feature" = "ฟีเจอร์ที่ชำระเงิน";
+"Watch ads or become a premium user to use this paid feature" = "ดูโฆษณาหรือกลายเป็นผู้ใช้ระดับพรีเมี่ยมเพื่อใช้คุณสมบัติที่ชำระเงินนี้";
+"Be Premium" = "พรีเมี่ยม";
+"Watch Ad" = "ดูโฆษณา";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "แอปพลิเคชั่นนี้ออกแบบมาเพื่อความบันเทิงและมีจุดมุ่งหมายเพื่อทำนายเสียงร้องไห้ของทารก อย่างไรก็ตามผลลัพธ์ของแอปพลิเคชันไม่ได้แทนที่การวินิจฉัยทางการแพทย์หรือคำแนะนำที่ชัดเจน หากการร้องไห้ของลูกน้อยยังคงมีอยู่หรือมีปัญหาสุขภาพใด ๆ โปรดขอความช่วยเหลือจากผู้เชี่ยวชาญด้านการแพทย์ทันที ในขณะที่ใช้แอปพลิเคชันโปรดจำไว้เสมอว่าคุณต้องเป็นผู้ปกครองหรือผู้ดูแลที่รับผิดชอบต่อสุขภาพและความปลอดภัยของลูกน้อยของคุณ ก่อนที่จะพึ่งพาผลลัพธ์ของแอปพลิเคชันเป็นสิ่งสำคัญที่จะต้องขอคำแนะนำทางการแพทย์และความช่วยเหลืออย่างมืออาชีพ โดยเริ่มใช้แอปพลิเคชันคุณรับทราบว่าคุณได้อ่านและเข้าใจข้อจำกัดความรับผิดชอบนี้อย่างระมัดระวัง";
+"Hungry" = "หิว";
+"Sleepy" = "ง่วงนอน";
+"Discomfort" = "ความรู้สึกไม่สบาย";
+"Lower Gas" = "ก๊าซล่าง";
+"Burp" = "เรอ";
+"Start Recording" = "เริ่มบันทึก";
+"Decibel" = "เดซิเบล";
+"Sound detected, keep recording" = "ตรวจพบเสียงเก็บบันทึกไว้";
+"No sound, bring the microphone closer" = "ไม่มีเสียงนำไมโครโฟนเข้ามาใกล้";
+"Weekly Premium" = "พรีเมี่ยมรายสัปดาห์";
+"Monthly Premium" = "พรีเมี่ยมรายเดือน";
+"Yearly Premium" = "พรีเมี่ยมรายปี";
+"Privacy Policy" = "นโยบายความเป็นส่วนตัว";
+"Terms of Use" = "ข้อกำหนดการใช้งาน";
+"Restore" = "คืนค่า";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "การวิเคราะห์ Baby Cry ด้วยปัญญาประดิษฐ์ขั้นสูง";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "อัพเกรดสำหรับข้อมูลเชิงลึกของทารกที่เพิ่มขึ้น ถอดรหัสเสียงร้องของลูกน้อยด้วยการวิเคราะห์ AI ระดับพรีเมี่ยม ยกระดับการเลี้ยงดูของคุณด้วยเทคโนโลยีที่ทันสมัย";
+"Error" = "ข้อผิดพลาด";
+"Purchase failed, there was an error occured" = "การซื้อล้มเหลวมีข้อผิดพลาดเกิดขึ้น";
+"SUBSCRIBE NOW" = "สมัครสมาชิกทันที";
+"Dunstan Baby Language" = "ภาษาทารก Dunstan";
+"Need Permission" = "ต้องการอนุญาต";
+"You need to give microphone permission to use the app." = "คุณต้องอนุญาตให้ใช้ไมโครโฟนเพื่อใช้แอพ";
+"Cancel" = "ยกเลิก";
+"Go Settings" = "ไปการตั้งค่า";

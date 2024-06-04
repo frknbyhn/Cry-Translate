@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "തുടരുക";
+"Let's Start" = "നമുക്ക് തുടങ്ങാം";
+"Working Principle" = "തൊഴിലാളി തത്വം";
+"User Feedback" = "ഉപയോക്തൃ ഫീഡ്ബാക്ക്";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "കുഞ്ഞിനെ കരയുന്ന ശബ്ദങ്ങൾ വിശകലനം ചെയ്യുന്ന ഒരു സംവിധാനമാണ് AI സവിശേഷത. ശേഖരിച്ച നിലവിളികൾ പ്രോസസ്സ് ചെയ്യുന്നതിലൂടെ (വിശപ്പ്, അസ്വസ്ഥത, ഉറക്കമില്ലായ്മ) പ്രോസസ്സ് ചെയ്യുന്നതിലൂടെ (പട്ടിണി, അസ്വസ്ഥത, ഉറക്കമില്ലായ്മ മുതലായവ) പ്രവചിക്കാൻ കഴിയുന്ന ഒരു കൃത്രിമ രഹസ്യാന്വേഷണ മോഡൽ ഈ സിസ്റ്റം പരിശീലിപ്പിക്കുന്നു. മോഡൽ ശബ്ദ ഡാറ്റയെ ഫീച്ചർ വെക്റ്ററുകളിലേക്ക് പരിവർത്തനം ചെയ്യുകയും ഈ വെക്റ്ററുകളിൽ നിന്ന് കരയുന്ന തരത്തിലുള്ള പ്രവചിക്കുകയും ചെയ്യുന്നു.";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "ഈ പ്രവചനങ്ങൾ കാണുന്നതിലൂടെ, ഉപയോക്താക്കൾക്ക് കുഞ്ഞിന്റെ ആവശ്യങ്ങൾക്ക് വേഗത്തിൽ പ്രതികരിക്കാൻ കഴിയും. ഉപയോക്തൃ ഫീഡ്ബാക്കും ഡാറ്റയും ഉപയോഗിച്ച് മോഡൽ നിരന്തരം മെച്ചപ്പെട്ടു, കൂടുതൽ കൃത്യമായ ഫലങ്ങൾക്കായി.";
+"Okay" = "ശരി";
+"Paid Feature" = "പണമടച്ചുള്ള സവിശേഷത";
+"Watch ads or become a premium user to use this paid feature" = "പരസ്യങ്ങൾ കാണുക അല്ലെങ്കിൽ ഈ പണമടച്ച സവിശേഷത ഉപയോഗിക്കുന്നതിന് പ്രീമിയം ഉപയോക്താവാക്കുക";
+"Be Premium" = "പ്രീമിയം ആകുക";
+"Watch Ad" = "പരസ്യം കാണുക";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "ഈ ആപ്ലിക്കേഷൻ വിനോദ ആവശ്യങ്ങൾക്കായി രൂപകൽപ്പന ചെയ്തിരിക്കുന്നത്, കുഞ്ഞ് കരയുന്ന ശബ്ദങ്ങൾ പ്രവചിക്കാൻ ലക്ഷ്യമിടുന്നു. എന്നിരുന്നാലും, ആപ്ലിക്കേഷന്റെ ഫലങ്ങൾ ഒരു നിശ്ചിത മെഡിക്കൽ രോഗനിർണയത്തിനോ ശുപാർശയോ നൽകുന്നില്ല. നിങ്ങളുടെ കുഞ്ഞിന്റെ കരച്ചിൽ തുടരുകയോ അല്ലെങ്കിൽ ആരോഗ്യകരമായ പ്രശ്നങ്ങൾ ഉണ്ടെങ്കിൽ, ഉടനടി ഒരു മെഡിക്കൽ പ്രൊഫഷണലിന്റെ സഹായം തേടുക. ആപ്ലിക്കേഷൻ ഉപയോഗിക്കുമ്പോൾ, നിങ്ങളുടെ കുഞ്ഞിന്റെ ആരോഗ്യത്തിനും സുരക്ഷയ്ക്കും നിങ്ങൾ ഉത്തരവാദിത്തമുള്ള ഒരു രക്ഷകർത്താവ് അല്ലെങ്കിൽ പരിചരണം നൽകണം എന്ന് എപ്പോഴും ഓർക്കുക. ആപ്ലിക്കേഷന്റെ ഫലങ്ങളെ ആശ്രയിക്കുന്നതിന് മുമ്പ്, പ്രൊഫഷണൽ വൈദ്യോക്തി, സഹായം തേടേണ്ടത് പ്രധാനമാണ്. ആപ്ലിക്കേഷൻ ഉപയോഗിക്കാൻ തുടങ്ങിയാൽ, നിങ്ങൾ ഈ നിരാകരണം ശ്രദ്ധാപൂർവ്വം വായിക്കുകയും മനസ്സിലാക്കുകയും ചെയ്യുന്നുവെന്ന് നിങ്ങൾ സമ്മതിക്കുന്നു.";
+"Hungry" = "നല്ലവിശപ്പുള്ള";
+"Sleepy" = "ഉറക്കമുള്ള";
+"Discomfort" = "ക്ലേശം";
+"Lower Gas" = "കുറഞ്ഞ വാതകം";
+"Burp" = "ഏമ്പക്കം";
+"Start Recording" = "റെക്കോർഡിംഗ് ആരംഭിക്കുക";
+"Decibel" = "ഡെസിബെൽ";
+"Sound detected, keep recording" = "ശബ്ദം കണ്ടെത്തി, റെക്കോർഡിംഗ് തുടരുക";
+"No sound, bring the microphone closer" = "ശബ്ദമില്ല, മൈക്രോഫോൺ അടുത്ത് കൊണ്ടുവരിക";
+"Weekly Premium" = "വിവാഹീമിയം";
+"Monthly Premium" = "പ്രതിമാസ പ്രീമിയം";
+"Yearly Premium" = "വാർഷിക പ്രീമിയം";
+"Privacy Policy" = "സ്വകാര്യതാ നയം";
+"Terms of Use" = "ഉപയോഗ നിബന്ധനകൾ";
+"Restore" = "വീണ്ടെടുക്കുക";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "നൂതന കൃത്രിമബുദ്ധിയോടുകൂടിയ ബേബി ക്രൈ വിശകലനം";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "AI-മെച്ചപ്പെടുത്തിയ കുഞ്ഞ് സ്ഥിതിവിവരക്കണക്കുകൾക്കായി അപ്ഗ്രേഡുചെയ്തു. പ്രീമിയം എഐ വിശകലനത്തിലൂടെ നിങ്ങളുടെ കുഞ്ഞിന്റെ നിലവിളി അനുവദിക്കുക. നിങ്ങളുടെ രക്ഷാകർതൃത്വം കട്ടിംഗ് എഡ്ജ് സാങ്കേതികവിദ്യ ഉപയോഗിച്ച് ഉയർത്തുക.";
+"Error" = "പിശക്";
+"Purchase failed, there was an error occured" = "വാങ്ങൽ പരാജയപ്പെട്ടു, ഒരു പിശക് സംഭവിച്ചു";
+"SUBSCRIBE NOW" = "ഇപ്പോൾ സബ്സ്ക്രൈബുചെയ്യുക";
+"Dunstan Baby Language" = "ഡൺസ്റ്റാൻ ബേബി ഭാഷ";
+"Need Permission" = "അനുമതി ആവശ്യമാണ്";
+"You need to give microphone permission to use the app." = "അപ്ലിക്കേഷൻ ഉപയോഗിക്കാൻ നിങ്ങൾ മൈക്രോഫോൺ അനുമതി നൽകേണ്ടതുണ്ട്.";
+"Cancel" = "റദ്ദാക്കുക";
+"Go Settings" = "ക്രമീകരണങ്ങൾ";

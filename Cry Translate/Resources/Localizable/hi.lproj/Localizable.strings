@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "जारी रखना";
+"Let's Start" = "चलो शुरू करो";
+"Working Principle" = "काम के सिद्धांत";
+"User Feedback" = "उपयोगकर्ता प्रतिसाद";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "एआई फीचर एक ऐसी प्रणाली है जो बेबी रोने की आवाज़ का विश्लेषण करती है। यह प्रणाली एक कृत्रिम बुद्धिमत्ता मॉडल को प्रशिक्षित करती है जो एकत्र किए गए क्राय साउंड्स डेटा को संसाधित करके विभिन्न आवश्यकता श्रेणियों (भूख, असुविधा, अनिद्रा, आदि) के लिए भविष्यवाणियां कर सकती है। मॉडल साउंड डेटा को फीचर वैक्टर में परिवर्तित करता है और इन वैक्टर से रोने के प्रकार की भविष्यवाणी करता है।";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "इन भविष्यवाणियों को देखकर, उपयोगकर्ता बच्चे की जरूरतों के लिए अधिक तेज़ी से जवाब दे सकते हैं। मॉडल को उपयोगकर्ता की प्रतिक्रिया और डेटा के साथ लगातार सुधार किया जाता है, अधिक सटीक परिणामों की ओर बढ़ता है।";
+"Okay" = "ठीक है";
+"Paid Feature" = "भुगतान की गई विशेषता";
+"Watch ads or become a premium user to use this paid feature" = "विज्ञापन देखें या इस भुगतान की सुविधा का उपयोग करने के लिए एक प्रीमियम उपयोगकर्ता बनें";
+"Be Premium" = "प्रीमियम हो";
+"Watch Ad" = "देखें विज्ञापन";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "यह एप्लिकेशन मनोरंजन उद्देश्यों के लिए डिज़ाइन किया गया है और इसका उद्देश्य बेबी रोने की आवाज़ का अनुमान लगाना है। हालांकि, आवेदन के परिणाम एक निश्चित चिकित्सा निदान या सिफारिश के लिए स्थानापन्न नहीं करते हैं। यदि आपके बच्चे का रोना जारी रहता है या यदि कोई स्वास्थ्य समस्या है, तो कृपया तुरंत एक चिकित्सा पेशेवर की सहायता लें। एप्लिकेशन का उपयोग करते समय, हमेशा याद रखें कि आपको अपने बच्चे के स्वास्थ्य और सुरक्षा के लिए एक जिम्मेदार माता -पिता या देखभाल करने वाला होना चाहिए। आवेदन के परिणामों पर भरोसा करने से पहले, पेशेवर चिकित्सा सलाह और मदद लेना महत्वपूर्ण है। एप्लिकेशन का उपयोग करना शुरू करके, आप स्वीकार करते हैं कि आपने इस अस्वीकरण को ध्यान से पढ़ा और समझा है।";
+"Hungry" = "भूखा";
+"Sleepy" = "नींद";
+"Discomfort" = "असहजता";
+"Lower Gas" = "कम गैस";
+"Burp" = "बर्प";
+"Start Recording" = "रिकॉर्डिंग शुरू";
+"Decibel" = "डेसिबल";
+"Sound detected, keep recording" = "ध्वनि का पता चला, रिकॉर्डिंग जारी रखें";
+"No sound, bring the microphone closer" = "कोई ध्वनि नहीं, माइक्रोफोन को करीब लाएं";
+"Weekly Premium" = "साप्ताहिक प्रीमियम";
+"Monthly Premium" = "मासिक प्रीमियम";
+"Yearly Premium" = "वार्षिक प्रीमियम";
+"Privacy Policy" = "गोपनीयता नीति";
+"Terms of Use" = "उपयोग की शर्तें";
+"Restore" = "पुनर्स्थापित करना";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "एडवांस्ड आर्टिफिशियल इंटेलिजेंस के साथ बेबी क्राई एनालिसिस";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "Ai-enhanced बेबी क्राई इनसाइट्स के लिए अपग्रेड करें। प्रीमियम एआई विश्लेषण के साथ अपने बच्चे के रोने को तुरंत डिकोड करें। अत्याधुनिक तकनीक के साथ अपने पेरेंटिंग को ऊंचा करें।";
+"Error" = "गलती";
+"Purchase failed, there was an error occured" = "खरीद विफल हो गई, एक त्रुटि हुई थी";
+"SUBSCRIBE NOW" = "अब सदस्यता लें";
+"Dunstan Baby Language" = "डंस्टन बेबी लैंग्वेज";
+"Need Permission" = "अनुमति की आवश्यकता है";
+"You need to give microphone permission to use the app." = "आपको ऐप का उपयोग करने के लिए माइक्रोफोन की अनुमति देने की आवश्यकता है।";
+"Cancel" = "रद्द करना";
+"Go Settings" = "सेटिंग्स जाओ";

@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "Να συνεχίσει";
+"Let's Start" = "Ας αρχίσουμε";
+"Working Principle" = "Αρχή λειτουργίας";
+"User Feedback" = "Σχόλια χρήστη";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "Το χαρακτηριστικό AI είναι ένα σύστημα που αναλύει τους ήχους που κλαίει το μωρό. Αυτό το σύστημα εκπαιδεύει ένα μοντέλο τεχνητής νοημοσύνης που μπορεί να κάνει προβλέψεις για διαφορετικές κατηγορίες ανάγκης (πείνα, δυσφορία, αϋπνία κ.λπ.) με την επεξεργασία των δεδομένων που συλλέχθηκαν ήχους CRY. Το μοντέλο μετατρέπει τα δεδομένα ήχου σε διανύσματα χαρακτηριστικών και προβλέπει τον τύπο του κλάματος από αυτούς τους φορείς.";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "Βλέποντας αυτές τις προβλέψεις, οι χρήστες μπορούν να ανταποκριθούν πιο γρήγορα στις ανάγκες του μωρού. Το μοντέλο βελτιώνεται συνεχώς με τα σχόλια και τα δεδομένα των χρηστών, τείνοντας προς τα ακριβέστερα αποτελέσματα.";
+"Okay" = "εντάξει";
+"Paid Feature" = "Χαρακτηριστικό γνώρισμα";
+"Watch ads or become a premium user to use this paid feature" = "Παρακολουθήστε διαφημίσεις ή γίνετε χρήστης premium για να χρησιμοποιήσετε αυτήν τη λειτουργία πληρωμής";
+"Be Premium" = "Είμαι πριμοδότηση";
+"Watch Ad" = "Παρακολουθήστε διαφήμιση";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "Αυτή η εφαρμογή έχει σχεδιαστεί για ψυχαγωγικούς σκοπούς και στοχεύει στην πρόβλεψη ήχων που κλαίνε το μωρό. Ωστόσο, τα αποτελέσματα της εφαρμογής δεν υποκαθιστούν μια συγκεκριμένη ιατρική διάγνωση ή σύσταση. Εάν το κλάμα του μωρού σας επιμένει ή εάν υπάρχουν προβλήματα υγείας, ζητήστε αμέσως τη βοήθεια ιατρικού επαγγελματία. Ενώ χρησιμοποιείτε την εφαρμογή, θυμηθείτε πάντα ότι πρέπει να είστε υπεύθυνος γονέας ή φροντιστής για την υγεία και την ασφάλεια του μωρού σας. Πριν βασίζεστε στα αποτελέσματα της εφαρμογής, είναι σημαντικό να αναζητήσετε επαγγελματικές ιατρικές συμβουλές και βοήθεια. Αρχίζοντας να χρησιμοποιείτε την εφαρμογή, αναγνωρίζετε ότι έχετε διαβάσει προσεκτικά και καταλάβατε αυτήν την αποποίηση ευθυνών.";
+"Hungry" = "Πεινασμένος";
+"Sleepy" = "Νυσταγμένος";
+"Discomfort" = "Δυσφορία";
+"Lower Gas" = "Χαμηλότερο αέριο";
+"Burp" = "Ρέψιμο";
+"Start Recording" = "Ξεκινήστε την εγγραφή";
+"Decibel" = "Ηχόμετρο";
+"Sound detected, keep recording" = "Ο ήχος εντοπίστηκε, συνεχίστε την εγγραφή";
+"No sound, bring the microphone closer" = "Χωρίς ήχο, φέρτε το μικρόφωνο πιο κοντά";
+"Weekly Premium" = "Εβδομαδιαία πριμοδότηση";
+"Monthly Premium" = "Μηνιαίο ασφάλιστρο";
+"Yearly Premium" = "Ετήσιο ασφάλιστρο";
+"Privacy Policy" = "Πολιτική απορρήτου";
+"Terms of Use" = "Οροι χρήσης";
+"Restore" = "Επαναφέρω";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "Ανάλυση Baby Cry με προηγμένη τεχνητή νοημοσύνη";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "Αναβάθμιση για γνώση Baby Cry Insights. Αμέσως αποκωδικοποιήστε τις κραυγές του μωρού σας με ανάλυση Premium AI. Ανυψώστε τον γονέα σας με τεχνολογία αιχμής.";
+"Error" = "Λάθος";
+"Purchase failed, there was an error occured" = "Η αγορά απέτυχε, σημειώθηκε σφάλμα";
+"SUBSCRIBE NOW" = "Εγγραφείτε τώρα";
+"Dunstan Baby Language" = "Γλώσσα μωρού Dunstan";
+"Need Permission" = "Χρειάζεται άδεια";
+"You need to give microphone permission to use the app." = "Πρέπει να δώσετε άδεια μικροφώνου για να χρησιμοποιήσετε την εφαρμογή.";
+"Cancel" = "Ματαίωση";
+"Go Settings" = "GO Ρυθμίσεις";

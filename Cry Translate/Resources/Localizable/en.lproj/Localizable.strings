@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "Continue";
+"Let's Start" = "Let's Start";
+"Working Principle" = "Working Principle";
+"User Feedback" = "User Feedback";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors.";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results.";
+"Okay" = "Okay";
+"Paid Feature" = "Paid Feature";
+"Watch ads or become a premium user to use this paid feature" = "Watch ads or become a premium user to use this paid feature";
+"Be Premium" = "Be Premium";
+"Watch Ad" = "Watch Ad";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer.";
+"Hungry" = "Hungry";
+"Sleepy" = "Sleepy";
+"Discomfort" = "Discomfort";
+"Lower Gas" = "Lower Gas";
+"Burp" = "Burp";
+"Start Recording" = "Start Recording";
+"Decibel" = "Decibel";
+"Sound detected, keep recording" = "Sound detected, keep recording";
+"No sound, bring the microphone closer" = "No sound, bring the microphone closer";
+"Weekly Premium" = "Weekly Premium";
+"Monthly Premium" = "Monthly Premium";
+"Yearly Premium" = "Yearly Premium";
+"Privacy Policy" = "Privacy Policy";
+"Terms of Use" = "Terms of Use";
+"Restore" = "Restore";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "Baby Cry Analysis with Advanced Artificial Intelligence";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology.";
+"Error" = "Error";
+"Purchase failed, there was an error occured" = "Purchase failed, there was an error occured";
+"SUBSCRIBE NOW" = "SUBSCRIBE NOW";
+"Dunstan Baby Language" = "Dunstan Baby Language";
+"Need Permission" = "Need Permission";
+"You need to give microphone permission to use the app." = "You need to give microphone permission to use the app.";
+"Cancel" = "Cancel";
+"Go Settings" = "Go Settings";

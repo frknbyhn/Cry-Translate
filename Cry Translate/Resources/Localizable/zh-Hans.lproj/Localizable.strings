@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "继续";
+"Let's Start" = "开始吧";
+"Working Principle" = "工作准则";
+"User Feedback" = "用户反馈";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "AI功能是一个分析婴儿哭泣声音的系统。该系统通过处理收集的哭声数据数据来训练一个人工智能模型，该模型可以对不同需求类别（饥饿，不适，失眠等）进行预测。该模型将声音数据转换为特征向量，并预测这些向量的哭泣类型。";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "通过看到这些预测，用户可以更快地响应婴儿的需求。用户反馈和数据不断改进该模型，从而倾向于更精确的结果。";
+"Okay" = "好的";
+"Paid Feature" = "付费功能";
+"Watch ads or become a premium user to use this paid feature" = "观看广告或成为使用此付费功能的优质用户";
+"Be Premium" = "溢价";
+"Watch Ad" = "观看广告";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "该应用程序是为娱乐目的而设计的，旨在预测婴儿哭泣的声音。但是，该应用程序的结果不能代替确定的医学诊断或建议。如果您的宝宝哭泣持续存在或存在任何健康问题，请立即寻求医疗专业人员的帮助。在使用该应用程序时，请务必记住，您必须是负责任的父母或护理人员，以确保婴儿的健康和安全。在依靠应用程序的结果之前，寻求专业的医疗建议和帮助很重要。通过开始使用该应用程序，您确认您已经仔细阅读并理解了此免责声明。";
+"Hungry" = "饥饿的";
+"Sleepy" = "困";
+"Discomfort" = "不适";
+"Lower Gas" = "较低的气体";
+"Burp" = "打bur";
+"Start Recording" = "开始录制";
+"Decibel" = "分贝";
+"Sound detected, keep recording" = "检测到声音，继续记录";
+"No sound, bring the microphone closer" = "没有声音，使麦克风更加接近";
+"Weekly Premium" = "每周保费";
+"Monthly Premium" = "每月保费";
+"Yearly Premium" = "年度保费";
+"Privacy Policy" = "隐私政策";
+"Terms of Use" = "使用条款";
+"Restore" = "恢复";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "带有高级人工智能的婴儿哭泣分析";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "升级A-增强的婴儿哭泣见解。通过高级AI分析立即解码宝宝的哭声。通过最先进的技术提高育儿。";
+"Error" = "错误";
+"Purchase failed, there was an error occured" = "购买失败，发生错误";
+"SUBSCRIBE NOW" = "现在订阅";
+"Dunstan Baby Language" = "邓斯坦婴儿语言";
+"Need Permission" = "需要许可";
+"You need to give microphone permission to use the app." = "您需要授予麦克风许可才能使用该应用程序。";
+"Cancel" = "取消";
+"Go Settings" = "进行设置";

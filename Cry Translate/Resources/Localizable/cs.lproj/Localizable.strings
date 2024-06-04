@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "Pokračovat";
+"Let's Start" = "Začněme";
+"Working Principle" = "Pracovní princip";
+"User Feedback" = "Zpětná vazba uživatele";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "Funkce AI je systém, který analyzuje zvuky plačícího dítěte. Tento systém trénuje model umělé inteligence, který může vytvářet předpovědi pro různé kategorie potřeb (hlad, nepohodlí, nespavost atd.) Zpracováním shromážděných údajů Cry Sounds. Model převádí zvuková data na vektory prvků a předpovídá typ pláče z těchto vektorů.";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "Když vidíte tyto předpovědi, mohou uživatelé rychle reagovat na potřeby dítěte. Model je neustále vylepšen pomocí zpětné vazby a dat uživatele a přistupuje k přesnějším výsledkům.";
+"Okay" = "dobře";
+"Paid Feature" = "Placená funkce";
+"Watch ads or become a premium user to use this paid feature" = "Sledujte reklamy nebo se staňte prémiovým uživatelem, který používá tuto placenou funkci";
+"Be Premium" = "Být prémiové";
+"Watch Ad" = "Sledujte AD";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "Tato aplikace je určena pro účely zábavy a jeho cílem je předpovídat zvuky pláče dítěte. Výsledky aplikace však nepředstavují definitivní lékařskou diagnózu nebo doporučení. Pokud pláč vašeho dítěte přetrvává nebo pokud dojde k zdravotním problémům, okamžitě vyhledejte pomoc lékařského profesionála. Při používání aplikace si vždy pamatujte, že musíte být odpovědným rodičem nebo pečovatelem pro zdraví a bezpečnost vašeho dítěte. Než se spoléháte na výsledky aplikace, je důležité vyhledat profesionální lékařskou pomoc a pomoc. Tím, že začnete používat aplikaci, berete na vědomí, že jste toto vyloučení odpovědnosti pečlivě přečetli a pochopili.";
+"Hungry" = "Hladový";
+"Sleepy" = "Ospalý";
+"Discomfort" = "Nepohodlí";
+"Lower Gas" = "Spodní plyn";
+"Burp" = "Říhnutí";
+"Start Recording" = "Začít nahrávat";
+"Decibel" = "Decibel";
+"Sound detected, keep recording" = "Zvuk zjistil, pokračujte v nahrávání";
+"No sound, bring the microphone closer" = "Žádný zvuk, přiblížit mikrofon";
+"Weekly Premium" = "Týdenní prémie";
+"Monthly Premium" = "Měsíční prémie";
+"Yearly Premium" = "Roční prémie";
+"Privacy Policy" = "Zásady ochrany osobních údajů";
+"Terms of Use" = "Podmínky použití";
+"Restore" = "Obnovit";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "Analýza Baby Cry s pokročilou umělou inteligencí";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "Upgradujte na AI-E-Enhanced Baby Cry Insights. Okamžitě dekódujte výkřiky vašeho dítěte pomocí prémiové analýzy AI. Zvyšte své rodičovství špičkovou technologií.";
+"Error" = "Chyba";
+"Purchase failed, there was an error occured" = "Nákup selhal, došlo k chybě";
+"SUBSCRIBE NOW" = "Přihlaste se k odběru";
+"Dunstan Baby Language" = "Dunstan Baby Jazyk";
+"Need Permission" = "Potřebují povolení";
+"You need to give microphone permission to use the app." = "Chcete -li aplikaci používat, musíte dát mikrofonu.";
+"Cancel" = "zrušení";
+"Go Settings" = "Nastavení GO";

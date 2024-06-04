@@ -1,0 +1,45 @@
+/* 
+  Localizable.strings
+  Cry Translate
+
+  Created by Furkan BEYHAN on 26.08.2023.
+  
+*/
+
+"Continue" = "Melanjutkan";
+"Let's Start" = "Ayo mulai";
+"Working Principle" = "Prinsip bekerja";
+"User Feedback" = "Umpan Balik Pengguna";
+"The AI feature is a system that analyzes baby crying sounds. This system trains an artificial intelligence model that can make predictions for different need categories (hunger, discomfort, insomnia, etc.) by processing the collected cry sounds data. The model converts the sound data into feature vectors and predicts the type of crying from these vectors." = "Fitur AI adalah sistem yang menganalisis suara menangis bayi. Sistem ini melatih model kecerdasan buatan yang dapat membuat prediksi untuk berbagai kategori kebutuhan (kelaparan, ketidaknyamanan, insomnia, dll.) Dengan memproses data suara CRY yang dikumpulkan. Model ini mengubah data suara menjadi vektor fitur dan memprediksi jenis tangisan dari vektor -vektor ini.";
+"By seeing these predictions, users can respond more quickly to baby's needs. The model is constantly improved with user feedback and data, tending towards more precise results." = "Dengan melihat prediksi ini, pengguna dapat merespons lebih cepat terhadap kebutuhan bayi. Model ini terus ditingkatkan dengan umpan balik pengguna dan data, cenderung ke hasil yang lebih tepat.";
+"Okay" = "Oke";
+"Paid Feature" = "Fitur berbayar";
+"Watch ads or become a premium user to use this paid feature" = "Tonton iklan atau menjadi pengguna premium untuk menggunakan fitur berbayar ini";
+"Be Premium" = "Menjadi premium";
+"Watch Ad" = "Tonton Iklan";
+"Cry Translate aims to predict baby crying sounds. However, the results of the application do not substitute for a definite medical diagnosis or recommendation. If your baby's crying persists or if there are any health issues, please seek the assistance of a medical professional immediately. While using the application, always remember that you must be a responsible parent or caregiver for the health and safety of your baby. Before relying on the application's results, it is important to seek professional medical advice and help. By starting to use the application, you acknowledge that you have carefully read and understood this disclaimer." = "Aplikasi ini dirancang untuk tujuan hiburan dan bertujuan untuk memprediksi suara menangis bayi. Namun, hasil aplikasi tidak menggantikan diagnosis atau rekomendasi medis yang pasti. Jika tangisan bayi Anda tetap ada atau jika ada masalah kesehatan, silakan cari bantuan profesional medis segera. Saat menggunakan aplikasi, selalu ingat bahwa Anda harus menjadi orang tua atau pengasuh yang bertanggung jawab untuk kesehatan dan keselamatan bayi Anda. Sebelum mengandalkan hasil aplikasi, penting untuk mencari nasihat dan bantuan medis profesional. Dengan mulai menggunakan aplikasi ini, Anda mengakui bahwa Anda telah membaca dan memahami penafian ini dengan cermat.";
+"Hungry" = "Lapar";
+"Sleepy" = "Mengantuk";
+"Discomfort" = "Tidak nyaman";
+"Lower Gas" = "Gas bawah";
+"Burp" = "Sendawa";
+"Start Recording" = "Mulai merekam";
+"Decibel" = "Desibel";
+"Sound detected, keep recording" = "Suara terdeteksi, terus merekam";
+"No sound, bring the microphone closer" = "Tidak ada suara, bawa mikrofon lebih dekat";
+"Weekly Premium" = "Premi mingguan";
+"Monthly Premium" = "Premi bulanan";
+"Yearly Premium" = "Premi tahunan";
+"Privacy Policy" = "Kebijakan pribadi";
+"Terms of Use" = "Syarat Penggunaan";
+"Restore" = "Memulihkan";
+"Baby Cry Analysis with Advanced Artificial Intelligence" = "Analisis Cry Baby Cry dengan Kecerdasan Buatan Lanjutan";
+"Subscribe for unlimited baby cry translation.\n\nUpgrade for AI-Enhanced Baby Cry Insights. Instantly decode your baby's cries with premium AI analysis. Elevate your parenting with cutting-edge technology." = "Tingkatkan wawasan Cry Baby Cry AI. Secara instan memecahkan kode tangisan bayi Anda dengan analisis AI premium. Tinggikan pengasuhan Anda dengan teknologi mutakhir.";
+"Error" = "Kesalahan";
+"Purchase failed, there was an error occured" = "Pembelian gagal, ada kesalahan yang terjadi";
+"SUBSCRIBE NOW" = "BERLANGGANAN SEKARANG";
+"Dunstan Baby Language" = "Bahasa bayi Dunstan";
+"Need Permission" = "Butuh izin";
+"You need to give microphone permission to use the app." = "Anda perlu memberikan izin mikrofon untuk menggunakan aplikasi.";
+"Cancel" = "Membatalkan";
+"Go Settings" = "GO Pengaturan";
